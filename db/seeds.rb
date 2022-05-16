@@ -7,6 +7,6 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-  User.create(email: "testpourthp@yopmail.com")
-  User.create(email: "test4thp@yopmail.com")
-  User.create(email: "testforthp@yopmail.com")
+  User.create(email: "testpourthp@yopmail.com", first_name: 'Marla')
+  User.create(email: "test4thp@yopmail.com", first_name: 'Le M')
+  User.create(email: "testforthp@yopmail.com", first_name: 'Luke Skywalker')
